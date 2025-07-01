@@ -1,3 +1,11 @@
+
+## Test 
+
+```
+Admin: username=admin, password=admin123
+User:  username=user,  password=user123
+```
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
